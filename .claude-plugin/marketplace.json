@@ -1,0 +1,17 @@
+{
+  "name": "sniv",
+  "owner": {
+    "name": "Konten Studio",
+    "email": "read@sniv.social"
+  },
+  "metadata": {
+    "description": "The sniv plugin for Claude: read a brand's public social media and get the one fix."
+  },
+  "plugins": [
+    {
+      "name": "sniv",
+      "source": "./",
+      "description": "Read a brand's public social media from the outside. Get a 0-100 score, the one bottleneck, and the one fix, with a source and a date behind every number."
+    }
+  ]
+}

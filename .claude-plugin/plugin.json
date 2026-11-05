@@ -1,0 +1,24 @@
+{
+  "name": "sniv",
+  "displayName": "sniv",
+  "version": "1.0.0",
+  "description": "Read a brand's public social media from the outside. Get a 0-100 score, the one bottleneck, and the one fix, with a source and a date behind every number.",
+  "author": {
+    "name": "Konten Studio",
+    "email": "read@sniv.social",
+    "url": "https://sniv.social"
+  },
+  "homepage": "https://sniv.social/docs/mcp",
+  "privacyPolicyUrl": "https://sniv.social/privacy",
+  "repository": "https://github.com/konten-studio/sniv-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "brand-audit",
+    "instagram",
+    "tiktok",
+    "youtube",
+    "marketing",
+    "competitor-analysis"
+  ]
+}
