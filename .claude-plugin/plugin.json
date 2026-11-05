@@ -10,6 +10,9 @@
   },
   "homepage": "https://sniv.social/docs/mcp",
   "privacyPolicyUrl": "https://sniv.social/privacy",
+  "termsOfServiceUrl": "https://sniv.social/terms",
+  "documentationUrl": "https://sniv.social/docs/mcp",
+  "supportUrl": "mailto:read@sniv.social",
   "repository": "https://github.com/konten-studio/sniv-claude-plugin",
   "license": "MIT",
   "keywords": [
